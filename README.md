@@ -1,6 +1,8 @@
 # houdini-solaris-sample
 
 * Houdini Solarisのサンプルファイルになります。
+* Houdiniバージョン
+  * Houdini Indie 21.0.512
 
 ## サンプル
 * /stage 以下に3つのサンプルを格納しています。
